@@ -14,4 +14,3 @@ Build basic UTXO MODEL.
 ## Test Results
 
 ![test output](./images/test-results.png)
-# UTXO-Model
