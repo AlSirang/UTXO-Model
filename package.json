@@ -1,0 +1,19 @@
+{
+  "name": "utxo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "transaction.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.1.0"
+  }
+}
